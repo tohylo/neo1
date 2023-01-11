@@ -1,0 +1,16 @@
+body {
+  background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif');
+  color: #f0c454;
+  font-family: georgia;
+  text-align: center;
+}
+
+.main {
+  font-family: georgia;
+  color:#f0c454;
+}
+#line1 {
+  font-size:30px;
+  }
+   
+.nav {position:absolute; top:10px;}
