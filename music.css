@@ -1,0 +1,6 @@
+body, html {background-image: linear-gradient(#000067, #baa962); height: 100%;}
+
+.yuru {position:absolute; bottom:0; right:0; z-index:11;}
+.bot {position:absolute; bottom:0; height:125px; width:100%; background-color:gray;}
+.le {position:absolute; bottom:0; height:100%; width:50px; left:925px; background-color:gray;}
+.to {position:absolute; top:0; right:0; left:925px; height:100px; background-color:gray;}
