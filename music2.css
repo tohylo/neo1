@@ -1,0 +1,37 @@
+body, html {background-image: linear-gradient(#000067, #baa962); background-attachment: fixed; margin:0; }
+
+.yuru {position:absolute; bottom:0; right:0; z-index:11; margin-bottom: 0px; width:1592; height:auto;}
+.bot {position:absolute; bottom:0; height:125px; width:100%; background-color:
+#0e0a12; margin-bottom: 0px;}
+.le {position:absolute; bottom:0; height:100%; width:50px; left:625px; background-color:
+#0e0a12; z-index:10;}
+.to {position:absolute; top:0; right:0; left:625px; height:70px; background-color:#0e0a12; z-index:9;}
+.ri {position:absolute; top:0; right:0; width:40px; bottom:0; background-color:
+#0e0a12; z-index:10;}
+.city {position:absolute; bottom:0; left:0; right:0; background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068759373951795220/japierdole.png'); background-color:black;}
+.room {margin-left:40px;}
+
+.overlay{
+background-size: cover;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:1000;
+background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068912275332812842/city.png');
+}
+
+.bg{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:0;
+}
+
+
+.back {position:absolute; bottom:0px; left:0px; z-index:100; height:42px; width:40px; background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068771880389062656/9.png');}
+
+.back:hover {background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068774340272865320/9_hover.png');}
