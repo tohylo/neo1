@@ -1,0 +1,61 @@
+body, html {background-image: linear-gradient(#000067, #baa962); background-attachment: fixed; margin:0; }
+
+.yuru {position:absolute; bottom:0; right:0; z-index:11; margin-bottom: 0px; width:1592; height:auto;}
+.bot {position:absolute; bottom:0; height:125px; width:100%; background-color:
+#0e0a12; margin-bottom: 0px; display:none;}
+.le {position:absolute; bottom:0; height:100%; width:50px; left:625px; background-color:
+#0e0a12; z-index:10; display:none;}
+.to {position:absolute; top:0; right:0; left:625px; height:70px; background-color:#0e0a12; z-index:9; display:none;}
+.ri {position:absolute; top:0; right:0; width:40px; bottom:0; background-color:
+#0e0a12; z-index:10; display:none;}
+.city {position:absolute; bottom:0; left:0; right:0; background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068759373951795220/japierdole.png'); background-color:black;}
+.room {margin-left:40px;}
+
+.overlay{
+background-size: cover;
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:1000;
+background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068912275332812842/city.png');
+}
+
+.bg{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0px;
+    left:0px;
+    z-index:0; 
+background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068971420027199598/star.gif');
+}
+
+.sign {margin-left:20px;}
+.box {position:absolute; border:outset; background-color:rgba(225, 225, 225, 0.25); width:400px; height:700px; left:20px; top:110px; }
+.links {position:absolute; width:370px; height:150px; top:760px; left:60px; font-family:Georgia;color:#FFE9B2;text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;font-size:20px;}
+
+.un,.indie,.yur,.dmt {transition:color 2s;}
+.un:hover {color:white;}
+.indie:hover {color:#85F957;}
+.yur:hover {color:red;}
+.dmt:hover {color:#0011fd;}
+
+.two {position:absolute; top:500px; left:40px;}
+
+
+.back {position:absolute; bottom:0px; left:0px; z-index:100; height:42px; width:40px; background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068995258706305194/9.png');}
+
+.back:hover {background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1068995258249138186/9_hover.png');}
+
+.bruh {position:absolute; top:130px; left:42px;}
+
+
+
+
+::selection {
+  background-color: rgba(0, 0, 0, 0);}
+  
+  .txt-container {position:absolute; left:580px; z-index:100; top:60px;}
+  #quote {font-family:Georgia;color:#FFE9B2;text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
