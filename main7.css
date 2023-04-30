@@ -1,0 +1,208 @@
+body {
+  font-family:"Georgia";
+  color: #f5d68a;
+  background-color:black;
+}
+.page {margin:0 auto; background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border:outset; height:815px; width:1536px; position:relative; -webkit-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+-moz-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);}
+.yuruspage:hover {
+ color:white;
+  text-decoration:none;
+  -webkit-animation:rainbow 2s linear infinite alternate;
+}
+
+@-webkit-keyframes rainbow {
+    0%   {color:#ee1e1e;        }
+    10%  {color:#ed6817;     }
+    20%  {color:#f0d151;       }
+    30%  {color:#eadf4e;     }
+    40%  {color:#d4ee34;}
+    50%  {color:#49ee2a;      }
+    60%  {color:#32e9af;       }
+    70%  {color:#3d60ee;       }
+    80%  {color:#b627dc;     }
+    90%  {color:#f039a2;    } 
+    100% {color:#ee1e1e;     }
+}
+.art:hover {
+ color:white;
+  text-decoration:none;
+  -webkit-animation:rainbow 2s linear infinite alternate;
+}
+
+@-webkit-keyframes rainbow {
+    0%   {color:#ee1e1e;        }
+    10%  {color:#ed6817;     }
+    20%  {color:#f0d151;       }
+    30%  {color:#eadf4e;     }
+    40%  {color:#d4ee34;}
+    50%  {color:#49ee2a;      }
+    60%  {color:#32e9af;       }
+    70%  {color:#3d60ee;       }
+    80%  {color:#b627dc;     }
+    90%  {color:#f039a2;    } 
+    100% {color:#ee1e1e;     }
+}
+
+.links:hover {
+ color:white;
+  text-decoration:none;
+  -webkit-animation:rainbow 2s linear infinite alternate;
+}
+
+@-webkit-keyframes rainbow {
+    0%   {color:#ee1e1e;        }
+    10%  {color:#ed6817;     }
+    20%  {color:#f0d151;       }
+    30%  {color:#eadf4e;     }
+    40%  {color:#d4ee34;}
+    50%  {color:#49ee2a;      }
+    60%  {color:#32e9af;       }
+    70%  {color:#3d60ee;       }
+    80%  {color:#b627dc;     }
+    90%  {color:#f039a2;    } 
+    100% {color:#ee1e1e;     }
+}
+
+.graphics:hover{
+ color:white;
+  text-decoration:none;
+  -webkit-animation:rainbow 3s linear infinite alternate;
+}
+
+@-webkit-keyframes rainbow {
+    0%   {color:#ee1e1e;        }
+    10%  {color:#ed6817;     }
+    20%  {color:#f0d151;       }
+    30%  {color:#eadf4e;     }
+    40%  {color:#d4ee34;}
+    50%  {color:#49ee2a;      }
+    60%  {color:#32e9af;       }
+    70%  {color:#3d60ee;       }
+    80%  {color:#b627dc;     }
+    90%  {color:#f039a2;    } 
+    100% {color:#ee1e1e;     }
+}
+
+#statuscafe {
+  z-index:2;
+  position: absolute;
+  bottom:30px; left:1160px;
+font-family:ms gothic;
+    padding: .5em;
+   
+  color:#f3d68a;
+text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;
+    border: 2px outset;
+width:190px; height:60px;
+  overflow:auto;
+  line-height:1.5;
+animation: smooth-appear 1s ease forwards;
+}
+#statuscafe-username {
+    margin-bottom: .5em;
+  font-family:ms gothic;
+}
+
+#statuscafe-username a:link {
+   color:#FFE9B2;
+  background-color: transparent;
+  text-decoration: underline; -webkit-animation:rainbow 2s linear infinite alternate;
+}
+
+#statuscafe-username a:visited {
+   color:#FFE9B2;
+  background-color: transparent;
+  text-decoration: underline; -webkit-animation:rainbow 2s linear infinite alternate;
+}
+
+#statuscafe-content {
+    margin: 0 1em 0.5em 1em;
+}
+
+@keyframes smooth-appear {
+  from {
+    bottom: -60px
+  }
+  to {
+    bottom: 20px)
+  }
+}
+
+.lay {position:absolute; overflow:visible; top:560px; z-index:10;}
+
+.box2 {position:absolute; top:100px; left:20px; font-family:"Pixelated MS Sans Serif","Georgia"; z-index:6; max-height:120px; max-width:400px; overflow: hidden;}
+.welcome {position:absolute; top:30px; left:20px; font-family:"Georgia";
+  color:#f5d68a; width:700px;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
+  .globe {position:absolute; left:515px; top:30px;}
+  .main {position:absolute; top:150px; left:200px; z-index:1; font-family:"Times New Roman"; -webkit-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+-moz-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);}
+  .angel {position:absolute; top:225px; left:207px; z-index:2;}
+  .directory {position:absolute; top:30px; left:1035px; z-index:2; -webkit-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+-moz-box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);
+box-shadow: 8px 8px 8px 0px rgba(220, 220, 255, 0.3);}
+.taskbar1 {position:absolute; top:785px; left:0px; z-index:3;}
+  .end {position:absolute; left:1366px; top:0px; background-color:#0054f1; background-image:url('x'); width:170px; height:815px; -webkit-box-shadow: inset 8px 8px 4px -4px rgba(85, 163, 251, 1);
+-moz-box-shadow: inset 8px 8px 4px -4px rgba(85, 163, 251, 1);
+box-shadow: inset 8px 8px 4px -4px rgba(85, 163, 251, 1);}
+  #clock {position:absolute; top:795px; left:1305px; color:white; font-family:"Pixelated MS Sans Serif"; z-index:3;}
+  .quote {position:absolute; font-family:"Georgia";
+  color:#f5d68a;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;
+  top:120px; left:800px; width:300px;}
+  
+  .yuruspage {position:absolute; font-family:"Georgia";
+  color:#FFE9B2;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;
+  top:110px; left:1200px; z-index:5;}
+  .links{position:absolute; font-family:"Georgia";
+  color:#FFE9B2;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px; z-index:5; top:260px; left:1070px;}
+  .art {position:absolute; font-family:"Georgia";
+  color:#FFE9B2;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px; z-index:5; top:390px; left:1185px;}
+  .graphics{position:absolute; font-family:"Georgia";
+  color:#FFE9B2;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px; z-index:11; top:550px; left:1060px;}
+  .discord {position:absolute; left:100px; top:505px; z-index:6; font-family:"Pixelated MS Sans Serif",Georgia;}
+  .video {position:absolute; left:20px; top:340px; z-index:2;}
+
+  .sprite1 {position:absolute; top:90px; left:1030px; z-index:5;}
+   .sprite2 {position:absolute; top:230px; left:1160px; z-index:5;}
+    .vsprite1 {position:absolute; top:410px; left:1045px; z-index:5;}
+    .vsprite2 {position:absolute; top:520px; left:1185px; z-index:5;}
+    .wtf {position:absolute; top:310px; left:1038px; z-index:2;}
+  
+ 
+ 
+ .button {position: absolute; left:60px; top:230px;}
+ .bselect {position:absolute; left:10px; top:270px;}
+ .btext {position:absolute; left:53px; top:195px; font-family:"Georgia"; font-size:15px;
+  color:#f5d68a; z-index:2;
+  text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
+  
+  .buttns {position: absolute; top:640px;}
+  
+  .start1 {position:absolute; top:785px; left:0px; z-index:3; width:98px; height:30px; background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1060783796225572974/start.png'); z-index:11;}
+.start1:hover {background-image:url('https://media.discordapp.net/attachments/1009314380837564447/1063192104345546773/icon1.png');}
+
+.windo {height:470px; width:150px; background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border: 1px solid white;}
+
+.chat {position: absolute; left:900px; top:200px; z-index:11; display:none;}
+
+.room {background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border:outset 2px; width:100px; height:20px;}
+
+.music {background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border:outset 2px; width:100px; height:20px;}
+.pet {background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border:outset 2px; width:100px; height:20px;}
+
+.muzik {position: absolute; left:1100px; top:400px; z-index:11; font-family:"Pixelated MS Sans Serif",Georgia; display:none;}
+
+.spotify {position: absolute; left:920px; top:485px; z-index:11; font-family:"Pixelated MS Sans Serif",Georgia; display:none;}
+
+.gify {position: absolute; left:550px; top:380px; z-index:11; font-family:"Pixelated MS Sans Serif",Georgia; display:none;}
+  
+
+.flower {position:absolute; bottom:-10px; right:10px; overflow:visible;}
