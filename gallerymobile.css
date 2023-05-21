@@ -1,0 +1,23 @@
+body {background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif?width=380&height=292'); font-family:times new roman; color:#F7C232;}
+.meow {color:#f5d68a;
+text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
+
+.container {font-family:times new roman; color:#F7C232; font-size:15px;}
+
+::-webkit-scrollbar{
+width: 13px;
+height: 13px;
+}
+::-webkit-scrollbar-thumb{
+background: #0011FF;
+border: 3.1px none #000000;
+border-radius: 0px;
+}
+::-webkit-scrollbar-thumb:hover{
+background: #0084FF;
+}
+::-webkit-scrollbar-track{
+background: #F0F0F0;
+border-radius: 0px;
+box-shadow: inset -5.3px 2.7px 7px -1px #000000;
+}
