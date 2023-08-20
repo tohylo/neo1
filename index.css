@@ -1,0 +1,19 @@
+body {
+  background-image:url('https://media.discordapp.net/attachments/904127172577472512/972258283761066094/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif');
+  color: #f0c454;
+  font-family: georgia;
+  text-align: center;
+}
+
+.main {
+  font-family: georgia;
+  color:#f0c454;
+}
+.glow {
+  font-size:15px;
+    color:#f5d68a;
+text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;
+  }
+   
+.nav {position:absolute; top:10px;}
+
