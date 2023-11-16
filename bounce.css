@@ -1,0 +1,59 @@
+body {
+  background-image: url('https://media.discordapp.net/attachments/1009314380837564447/1174855260980912128/rainbow_starry_sky_glitter_background_seamless.gif?ex=65691c39&is=6556a739&hm=59129a61b825e2f4e4b7775c13c5b03b87eb3cbce9a9e46329e81498d610e6be&=&width=500&height=500');
+}
+
+@keyframes jump {
+  0% {
+    top: 0;
+    -webkit-animation-timing-function: ease-in;
+  }
+  40% {
+  }
+  50% {
+    top: 85%;
+    
+    -webkit-animation-timing-function: ease-out;
+  }
+  55% {
+    top: 92%;
+    
+    -webkit-animation-timing-function: ease-in;
+  }
+  65% {
+    top: 82%;
+    
+    -webkit-animation-timing-function: ease-out;
+  }
+  95% {
+    top: 0;
+    -webkit-animation-timing-function: ease-in;
+  }
+  100% {
+    top: 0;
+    -webkit-animation-timing-function: ease-in;
+  }
+}
+.ball {
+  position:absolute;
+  top: 0;
+  left:380px;
+  animation: jump 2s infinite;
+  z-index:100;
+}
+.iBox {
+  position: relative;
+  width:1000px;
+  padding: 10px;
+   margin: 0 auto;
+}
+
+.trampoline {
+  position:absolute;
+  left:200px;
+  top:300px;
+}
+
+.bounce {
+    -webkit-filter: drop-shadow(5px 5px 5px gray);
+  filter: drop-shadow(5px 5px 5px gray);
+}
