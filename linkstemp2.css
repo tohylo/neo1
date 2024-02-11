@@ -1,0 +1,43 @@
+body {background-color:black; font-family:times new roman;}
+
+p {color:#F7C232;}
+
+.container {border:outset; margin:0 auto; background-image:url('https://i.postimg.cc/NM6w282v/ezgif-5-db14fdffdfdfdfddfdfdf6e346d.gif'); border:outset; width:1536px; position:relative; padding:10px;}
+
+.one {width:320px; position:absolute; left:100px; font-size:18px; top:180px; }
+.three { width:320px; position:absolute; left:430px; font-size:18px; top:180px; text-shadow:none;}
+
+a:hover {text-decoration: underline; -webkit-animation:rainbow 2s linear infinite alternate;}
+
+@-webkit-keyframes rainbow {
+    0%   {color:#ee1e1e;        }
+    10%  {color:#ed6817;     }
+    20%  {color:#f0d151;       }
+    30%  {color:#eadf4e;     }
+    40%  {color:#d4ee34;}
+    50%  {color:#49ee2a;      }
+    60%  {color:#32e9af;       }
+    70%  {color:#3d60ee;       }
+    80%  {color:#b627dc;     }
+    90%  {color:#f039a2;    } 
+    100% {color:#ee1e1e;     }
+}
+
+a {text-decoration:none; -webkit-animation:rainbow 2s linear infinite alternate; text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
+
+.two {position:absolute; right:10px; top:10px; height:700px; width:500px; text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px; }
+
+
+.bar {position:relative;top:150px; margin:0; background-color:#CBCBCB; height:10px; border-top:white 3px solid; border-left:black 3px solid; width:1556px; left:-10px;}
+
+.four {position:relative; top:-13px; text-shadow: #ff0000 0px 0px 5px, #ff6600 0px 0px 10px, #ffff00 0px 0px 15px, #00ff00 0px 0px 20px, #0099ff 0px 0px 30px, #9933ff 0px 0px 40px, #ff00ff 0px 0px 50px, #ffffff 0px 0px 75px;}
+
+@keyframes bounce2 {
+	0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-30px);}
+	60% {transform: translateY(-15px);}
+}
+
+.neko {position:fixed; height:100%;}
+.beko {position:fixed; right:0;  height:100%; left:100px;}
+.weko {position:absolute; right:-30px;}
